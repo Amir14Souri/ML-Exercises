@@ -6,11 +6,11 @@ notebooks contain a brief explanation, related formulas, and some examples of ea
 
 ## Book
 
-The book I have read is **Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)**
+The book I have read is **Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)**.
 
 You can purchase the book using [this link](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
 
-*This repository contains only the ML models covered in first Part (Chapters 1 to 9) of this book*
+*This repository contains only the ML models covered in **first Part (Chapters 1 to 9)** of this book.*
 
 ## Content
 
