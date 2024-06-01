@@ -68,4 +68,4 @@ Chapter 9 (second part)
 
 #### 11. Gaussian Mixtures
 
-Chapter 10 (third part)
+Chapter 9 (third part)
